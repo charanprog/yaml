@@ -1,0 +1,7 @@
+student : !!seq
+ -name
+ -marks
+ -roll_no
+
+ #anotherway
+cities : [delhi,mumbai,kolkata]

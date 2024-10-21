@@ -1,0 +1,15 @@
+Name: Charan
+rollno : '02'
+age : "21"
+---
+code : hey this is something 
+ im just learning things to setup 
+ to doso 
+---
+number : !!int 45
+marks  : !!float 67.09
+nameofhim: !!str  arjun
+---
+#some basic datatype which makes us to learn 
+null : !!null null
+boooleantype : !!bool true
