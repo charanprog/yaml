@@ -1,0 +1,8 @@
+College:
+- Name: MREC
+  Principle: BLAHBLAH
+  Students:
+  - Student1: Charan
+    Rollno: '2'
+    Marks: '979'
+    Student2: Tharun
