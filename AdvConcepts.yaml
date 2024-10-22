@@ -1,0 +1,27 @@
+student : !!seq
+ -marks
+ -name
+ -rollno
+
+#anotherway
+colors: [gree,blue]
+
+#sparse seq ,where u will have null keys
+
+Sparse seq:
+ -hye
+ -hii
+ -
+ -nothing
+ -super
+
+# nested Sequences  
+-
+ -player
+ -athelete
+ -defender
+ -raider
+ -
+ -allrounder
+
+ #key:value pairs are
