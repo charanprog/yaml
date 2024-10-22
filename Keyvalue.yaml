@@ -1,0 +1,57 @@
+#key valuepairs
+!!map
+name: CHARAN
+role:
+  age: 21
+  job: student
+
+  #another 
+  Name: CHARAN
+  role: {age: 89, job: student}
+
+  pairexample: !!pairs
+    -job: Studentff
+    -jobrole: Teacher
+
+#ANOTHER
+pairexample: !!pairs [{job: Student}, {job: Teacher}]
+
+#array of hashtables
+#!!set alllows u unique values
+
+namees: !!set
+  charan:
+  arun:
+
+  varun:
+#Dictionary !!Omap
+people: !!Omap
+  -kunal:
+    name: kunal kushwaha
+    age: 90
+    height: 990
+  -arjun:
+    name: arjun deshwal
+    age: 678
+    height: 230
+  --charan:
+    name: Charan Midathapaly
+    age: 68
+    height: 22215
+
+#resuing some things
+things:
+  fav fruits: Mango
+  Dislikes: Nothing
+person1:
+  name: vivek
+  fav fruits: Mango
+  Dislikes: Nothing
+person2:
+  name: THARUN
+  fav fruits: Mango
+  Dislikes: Nothing
+person3:
+  name: varun
+  fav fruits: Mango
+  Dislikes: Nothing
