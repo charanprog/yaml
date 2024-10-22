@@ -1,0 +1,15 @@
+{
+    "College":[
+        {
+        "Name":"MREC",
+        "Principle": "BLAHBLAH",
+        
+        "Students":[
+            {
+                "Student1":"Charan","Rollno":"22","Marks":"99",
+                "Student2":"Tharun","Rollno":"2","Marks":"979"
+            }
+        ]
+    }
+    ]
+}
